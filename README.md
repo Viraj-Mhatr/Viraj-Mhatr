@@ -52,5 +52,5 @@ Consolation Prize: Project "Covid Scholarship Planning"
 📫 Contact Me
 - Phone: 9049205721
 - Email: virajmhatre2002@gmail.com
-- GitHub: YourGitHubUsername 
+  
 Feel free to explore my repositories and reach out for collaborations or exciting opportunities!
