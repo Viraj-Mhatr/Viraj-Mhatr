@@ -38,14 +38,17 @@ Website Developer
 Student Council, Mumbai
 
 Designed and developed a website for the college student council.
+
 📜 Certifications
-Building Interactive UI with React (Coursera)
-AI for Everyone (Coursera)
-Python for Financial Analysis (Coursera)
+- Building Interactive UI with React (Coursera)
+- AI for Everyone (Coursera)
+- Python for Financial Analysis (Coursera)
+
 🏆 Achievements
 Consolation Prize: Project "Covid Scholarship Planning"
+
 📫 Contact Me
-Phone: 9049205721
-Email: virajmhatre2002@gmail.com
-GitHub: YourGitHubUsername
+- Phone: 9049205721
+- Email: virajmhatre2002@gmail.com
+- GitHub: YourGitHubUsername 
 Feel free to explore my repositories and reach out for collaborations or exciting opportunities!
