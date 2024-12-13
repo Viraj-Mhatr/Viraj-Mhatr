@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @Viraj-Mhatr
-- 👀 I’m interested in Web and android Development
-- 🌱 I’m currently learning Deep learning AI Tech for upskilling my self and gain much new knwoledge
-- 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me virajmhatre2002@gmail.com
+🌟 Viraj Mhatre - IT Engineer & Software Developer
+Hi, I'm Viraj Mhatre, a passionate IT Engineer and Software Developer with expertise in designing amazing user interfaces and building innovative software solutions. With experience in full-stack development and a knack for learning new technologies, I strive to deliver impactful projects that solve real-world problems.
 
-<!---
-Viraj-Mhatr/Viraj-Mhatr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technical Skills
+Languages: Java, Python, SQL, HTML, CSS, JavaScript
+Frameworks/Libraries: ReactJS, Flask
+Tools & Technologies: Wireshark
+Other Skills: Critical thinking, problem-solving, leadership
+🛠️ Projects
+1. StyleScribe
+Tech Stack: Python, Flask, Firebase
+Developed a GenAI-powered solution for styling recommendations.
+2. Visual Assist
+Tech Stack: Python, Flask, gTTS, YOLO v5
+Built an object detection tool for visually impaired individuals, featuring audio feedback.
+3. Digital Attendance System
+Tech Stack: Raspberry Pi, HTML, CSS, JavaScript
+Automated attendance capturing system leveraging IoT technologies.
+4. Covid Scholarship Planning
+Tech Stack: Python, Tkinter, SQL
+Created a Tkinter-based application to assist in planning COVID scholarships.
+5. BookMyBus
+Tech Stack: NetBeans, Java, SQL
+Developed a Java-based web application for bus ticket booking.
+🎓 Education
+B.E. in IT: St. Francis Institute of Technology, 2020–2024
+HSC in Science: Nirmal Institute of Science and Commerce, 2018–2020
+💼 Experience
+Full Stack Developer Intern
+Webixar IT Solutions, Mumbai
+
+Contributed to various web-based projects over a 3-month internship.
+Web Developer
+Team GATEE, Mumbai
+
+Collaborated as part of a college committee to develop web solutions.
+Website Developer
+Student Council, Mumbai
+
+Designed and developed a website for the college student council.
+📜 Certifications
+Building Interactive UI with React (Coursera)
+AI for Everyone (Coursera)
+Python for Financial Analysis (Coursera)
+🏆 Achievements
+Consolation Prize: Project "Covid Scholarship Planning"
+📫 Contact Me
+Phone: 9049205721
+Email: virajmhatre2002@gmail.com
+GitHub: YourGitHubUsername
+Feel free to explore my repositories and reach out for collaborations or exciting opportunities!
