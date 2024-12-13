@@ -24,8 +24,8 @@ Tech Stack: NetBeans, Java, SQL
 Developed a Java-based web application for bus ticket booking.
 
 🎓 Education
-B.E. in IT: St. Francis Institute of Technology, 2020–2024
-HSC in Science: Nirmal Institute of Science and Commerce, 2018–2020
+- B.E. in IT: St. Francis Institute of Technology, 2020–2024
+- HSC in Science: Nirmal Institute of Science and Commerce, 2018–2020
 
 💼 Experience
 Full Stack Developer Intern
