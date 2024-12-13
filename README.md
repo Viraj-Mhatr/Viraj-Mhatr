@@ -34,8 +34,7 @@ Hi, I'm Viraj Mhatre, a passionate IT Engineer and Software Developer with exper
   - Contributed to various web-based projects over a 3-month internship.
 - Web Developer Team GATEE, Mumbai
   - Collaborated as part of a college committee to develop web solutions.
-  - Website Developer
-- Student Council, Mumbai
+- Website Developer Student Council, Mumbai
   - Designed and developed a website for the college student council.
 
 📜 **Certifications**
