@@ -30,18 +30,13 @@ Hi, I'm Viraj Mhatre, a passionate IT Engineer and Software Developer with exper
 - HSC in Science: Nirmal Institute of Science and Commerce, 2018–2020
 
 💼 **Experience**
-Full Stack Developer Intern
-Webixar IT Solutions, Mumbai
-
-Contributed to various web-based projects over a 3-month internship.
-Web Developer
-Team GATEE, Mumbai
-
-Collaborated as part of a college committee to develop web solutions.
-Website Developer
-Student Council, Mumbai
-
-Designed and developed a website for the college student council.
+- Full Stack Developer Intern Webixar IT Solutions, Mumbai
+  - Contributed to various web-based projects over a 3-month internship.
+- Web Developer Team GATEE, Mumbai
+  - Collaborated as part of a college committee to develop web solutions.
+  - Website Developer
+- Student Council, Mumbai
+  - Designed and developed a website for the college student council.
 
 📜 **Certifications**
 - Building Interactive UI with React (Coursera)
