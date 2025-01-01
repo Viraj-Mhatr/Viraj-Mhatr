@@ -4,7 +4,6 @@ Hi, I'm Viraj Mhatre, a passionate IT Engineer and Software Developer with exper
 🔧 **Technical Skills**
 - Languages: Java, Python, SQL, HTML, CSS, JavaScript
 - Frameworks/Libraries: ReactJS, Flask
-- Tools & Technologies: Wireshark
   
 **Other Skills**: Critical thinking, problem-solving, leadership
 
